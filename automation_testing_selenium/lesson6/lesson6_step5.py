@@ -4,6 +4,9 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+# Created by AV
+# 25/01/2022
+
 driver = webdriver.Chrome()
 
 try:
